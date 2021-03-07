@@ -1,0 +1,12 @@
+img {
+    width: 200px;
+    height: 200px;
+}
+body {
+    text-align: center;
+    background-color:darkgreen;
+}
+h1 {
+    font-size: 50px;
+    color: lightgreen;
+}
